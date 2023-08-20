@@ -1,4 +1,4 @@
-Hosted Link: 
+Hosted Link: https://kaverichougule.github.io/Weekly_Test5_CSS_Properties/
 
 # index.html <br>
 ![image](https://github.com/kaverichougule/Weekly_Test5_CSS_Properties/assets/101037685/d5a39877-d551-4e27-8f56-2661a5a3cf3b)
